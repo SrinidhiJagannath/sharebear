@@ -1,0 +1,1 @@
+http://stackoverflow.com/questions/28792265/using-r-to-connect-to-a-sharepoint-list
